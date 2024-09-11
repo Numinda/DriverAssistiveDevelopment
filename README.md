@@ -13,7 +13,7 @@ This project develops a real-time driver assistance system deployed on an NVIDIA
  - ### Forward Collision Warning:
    Continuously monitors the environment, identifying potential collisions and providing timely warnings to prevent accidents.
    
-   ![demo](Demo/Images/ForwardCollision.png)
+   ![demo](Demo/Images/ForwardCollisionTraffic.png)
  - ### Adaptive Headlight Control:
    Automatically adjusts headlights based on ambient light conditions and detected vehicles, improving visibility for both the driver and oncoming traffic.
    
