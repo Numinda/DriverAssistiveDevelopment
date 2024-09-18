@@ -18,7 +18,7 @@ This project develops a real-time driver assistance system deployed on an NVIDIA
    Automatically adjusts headlights based on ambient light conditions and detected vehicles, improving visibility for both the driver and oncoming traffic.
    
    ![demo](Demo/Images/Headlight.jpg)
-
+   ![demo](Demo/Images/dim.jpg)
 ### Features
 
 - Real-time object detection using the YOLOv5 model.
